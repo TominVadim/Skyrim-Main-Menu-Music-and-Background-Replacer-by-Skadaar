@@ -1,8 +1,10 @@
-<h1>Skyrim Main Menu Music and Background Replacer | Замена фона и музыки главного меню Skyrim | by Skadaar</h1>
+<h1>Skyrim LE/SE/AE Main Menu Music and Background Replacer | Замена фона и музыки главного меню Skyrim LE/SE/AE | by Skadaar</h1>
 
-# New background | Новый фон Главного Меню:
+<h3>New background | Новый фон Главного Меню:</h3>
+
 ![Alt text](img/background.png)
-# New Music (YouTube link) | Новая музыка (ссылка на YouTube):
+
+<h3>New Music (YouTube link) | Новая музыка (ссылка на YouTube):</h3>
 
 [The Dragonborn Comes - cover in Russian | Драконорождённый придёт - кавер на русском by Cactus In A Scarf](https://youtu.be/vdUbjpFvumI?si=BsbrIRwH5Fcggj9i/)
 
@@ -30,5 +32,7 @@ Dovahkiin, fah hin kogaan mu draal<br/>
 
 <h4>Installation:</h4>
 <p>Unpack the archive into the game folder and replace the files or use a mod manager(recommended) that is convenient for you.</p>
+
+[click me to download](.file/Skyrim%20Main%20Menu%20Music%20and%20Background%20Replacer%20by%20Skadaar.rar)
 
 
