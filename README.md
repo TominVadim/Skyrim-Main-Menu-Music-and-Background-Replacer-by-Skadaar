@@ -33,6 +33,6 @@ Dovahkiin, fah hin kogaan mu draal<br/>
 <h4>Installation:</h4>
 <p>Unpack the archive into the game folder and replace the files or use a mod manager(recommended) that is convenient for you.</p>
 
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-<!-- END LATEST DOWNLOAD BUTTON -->
+[Download | Скачать](.file/Skyrim%20Main%20Menu%20Music%20and%20Background%20Replacer%20by%20Skadaar.rar)
+
 
