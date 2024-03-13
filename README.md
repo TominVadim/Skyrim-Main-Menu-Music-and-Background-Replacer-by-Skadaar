@@ -4,7 +4,7 @@
 ![Alt text](img/background.png)
 # New Music (YouTube link) | Новая музыка (ссылка на YouTube):
 
-[an example](https://youtu.be/vdUbjpFvumI?si=BsbrIRwH5Fcggj9i "The Dragonborn Comes - cover in Russian | Драконорождённый придёт - кавер на русском by Cactus In A Scarf")
+[The Dragonborn Comes - cover in Russian | Драконорождённый придёт - кавер на русском by Cactus In A Scarf](https://youtu.be/vdUbjpFvumI?si=BsbrIRwH5Fcggj9i/)
 
 <h4>Текст Песни</h4>
 <p>Наш воин, герой наш, настал твой черёд<br/>
