@@ -1,27 +1,34 @@
+<h1>Skyrim Main Menu Music and Background Replacer | Замена фона и музыки главного меню Skyrim | by Skadaar</h1>
+
+# New background | Новый фон Главного Меню:
 ![Alt text](img/background.png)
-[This link](https://youtu.be/vdUbjpFvumI?si=BsbrIRwH5Fcggj9i)
+# New Music (YouTube link) | Новая музыка (ссылка на YouTube):
 
-The Dragonborn Comes - cover in Russian | Драконорождённый придёт - кавер на русском by Cactus In A Scarf
+[an example](https://youtu.be/vdUbjpFvumI?si=BsbrIRwH5Fcggj9i "The Dragonborn Comes - cover in Russian | Драконорождённый придёт - кавер на русском by Cactus In A Scarf")
 
-Наш воин, герой наш, настал твой черёд
-Я верю, Драконорождённый придёт
-Его голос в себе силу Нордов несёт
+<h4>Текст Песни</h4>
+<p>Наш воин, герой наш, настал твой черёд<br/>
+Я верю, Драконорождённый придёт<br/>
+Его голос в себе силу Нордов несёт<br/>
 Поверь и ты, он скоро придёт
-
-И наступит конец всем Скайримским врагам
-Близка ваша гибель, идёт герой к нам
-Возродится легенда из тьмы и руин
+</p>
+<p>И наступит конец всем Скайримским врагам<br/>
+Близка ваша гибель, идёт герой к нам<br/>
+Возродится легенда из тьмы и руин<br/>
 Тогда ты поймёшь - пришёл Довакин
+</p>
+<p>Dovahkiin, Dovahkiin<br/>
+Naal ok zin los vahriin<br/>
+Wah dein vokul mahfaeraak ahst vaal<br/>
+Ahrk fin norok paal graan<br/>
+Fod nust hon zindro zaan<br/>
+Dovahkiin, fah hin kogaan mu draal<br/>
+</p>
 
-Dovahkiin, Dovahkiin
-Naal ok zin los vahriin
-Wah dein vokul mahfaeraak ahst vaal
-Ahrk fin norok paal graan
-Fod nust hon zindro zaan
-Dovahkiin, fah hin kogaan mu draal
+<h4>Установка:</h4>
+<p>Распакуйте архив в папку с игрой с заменой файлов или используйте удобный вам мод менеджер (рекоммендовано).</p>
 
-Установка:
-Распакуйте архив в папку с игрой с заменой файлов или используйте удобный вам мод менеджер (рекоммендовано).
+<h4>Installation:</h4>
+<p>Unpack the archive into the game folder and replace the files or use a mod manager(recommended) that is convenient for you.</p>
 
-Installation:
-Unpack the archive into the game folder and replace the files or use a mod manager(recommended) that is convenient for you.
+
